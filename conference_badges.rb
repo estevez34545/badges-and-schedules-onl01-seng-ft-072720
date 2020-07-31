@@ -3,5 +3,6 @@
 end
 def batch_badge_creator(antendees)
   attendees.collect |name|
+  badge_maker()
 end  
 end
